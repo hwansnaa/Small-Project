@@ -27,9 +27,11 @@
 
   
 
-  * **행렬**로 나타내면?
-    [image1]
-
+  * **행렬**로 나타내면?    
+  
+      ![Alt text](image/equation1.gif "equation1")
+    
+    
     - 이 행렬을 **Markov Matrix**라고 한다.
 
   
@@ -56,16 +58,16 @@
 
   * **다음 주**
 
-  [image2]
+  ![Alt text](image/equation2.gif "equation2")
   
   
 
   식으로는 다음과 같다.
   
 
-  [image3]
+  ![Alt text](image/equation3.gif "equation3")
   
-  [image4]
+  ![Alt text](image/equation4.gif "equation4")
 
   
 
